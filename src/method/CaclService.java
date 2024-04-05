@@ -3,6 +3,9 @@ package method;
 public class CaclService {
 	
 
+	/**
+	 * 인사말 출력 메세지
+	 */
 	public void disp() {
 
 		System.out.println("안녕하세요");

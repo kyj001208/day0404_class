@@ -1,7 +1,5 @@
 package method;
 
-import java.util.Scanner;
-
 public class CalcTest {
 
 	public static void main(String[] args) {
@@ -15,8 +13,7 @@ public class CalcTest {
 		cac.display("산", 2);
 
 		
-		Scanner in=new Scanner(System.in);
-		in.nextInt(0);
+		
 	}
 
 }
